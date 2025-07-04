@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+jupyter
+xgboost
+numpy
+scipy
+Flask
+matplotlib
+# Note that SQLite3 is already built into Python 3
